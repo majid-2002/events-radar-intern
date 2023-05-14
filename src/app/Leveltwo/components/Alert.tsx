@@ -29,7 +29,7 @@ const Alert: React.FC<AlertProps> = ({
             <div className="mb-4">
                 <input
                     type="text"
-                    className="borderrounded py-2 px-3 w-full bg-black outline-1 outline-neutral-800 outline rounded placeholder:text-gray-600 text-sm"
+                    className="borderrounded py-3 px-3 w-full bg-black outline-1 outline-neutral-800 outline rounded placeholder:text-gray-600 text-sm"
                     placeholder="Enter keyword"
                 />
             </div>
